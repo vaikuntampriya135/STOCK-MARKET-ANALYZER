@@ -5,7 +5,7 @@ An advanced web application built using **React**, **Node.js**, and **Express** 
 
 ## 🌐 Live Demo
 
-> Hosted on **Netlify** – [Click here to view](https://your-netlify-link.com)  
+> Hosted on **Netlify** – [Click here to view](https://benevolent-churros-24c551.netlify.app/)
 > *(Replace with your actual Netlify deployment link)*
 
 ---
